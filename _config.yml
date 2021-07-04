@@ -2,7 +2,7 @@
 title: 공부하는 개발자, 신여름
 description: summer's devFolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
- url: "localhost:4000" the base hostname & protocol for your site e.g. http://wnajoah.github.io
+# url: "localhost:4000" the base hostname & protocol for your site e.g. http://wnajoah.github.io
 
 
 # User settings
